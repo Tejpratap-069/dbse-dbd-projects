@@ -130,3 +130,4 @@ FROM physician;
 
 SELECT MIN(employeeid)
 FROM physician;
+
